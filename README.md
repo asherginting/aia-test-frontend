@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<a href="https://aimeos.org/">
+    <img src="https://user-images.githubusercontent.com/39787908/165537085-22b9b71d-16e8-4fce-8305-0c6a2abfff35.png" height="80" alt="AIA-Logo" title="AIA" align="right" />
+</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# AIA Test Frontend
 
-## Available Scripts
+Simple Coding Test for AIA Nodejs Fullstack Engineer
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
+[![img](https://user-images.githubusercontent.com/39787908/165578904-54571ba8-d87d-4a0c-a0b8-5a8cfa5c0c62.png)](#)
+[![img](https://user-images.githubusercontent.com/39787908/165579414-87285501-3c3e-4750-a439-90807781e81c.png)](#)
+
+
+<br>
+
+## ⌛️ Installation
+
+1. Clone this repo
+```
+git clone https://github.com/asherginting/aia-test-frontend
+```
+
+2. cd folder
+```
+aia-test-frontend
+
+```
+3. Install module
+```
+npm install
+```
+
+4. Make your .env file in project
+
+
+5. Done, ```npm run start``` to run the project
+
+<br>
+
+Runs the app default in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
 
-### `npm test`
+## ⛏️ Built Using
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React Js](https://reactjs.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Bootstrap](https://www.npmjs.com/package/bootstrap)
+- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 
-### `npm run build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Frontend : https://github.com/asherginting/aia-test-frontend
+<br>
+Deploy Frontend : https://aia-frontend.herokuapp.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+## 💻 Backend
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Backend : https://github.com/asherginting/aia-test-backend
+<br>
+Deploy Backend : https://aia-backend.herokuapp.com
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ✍️ Authors
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@asherginting](https://github.com/asherginting)
